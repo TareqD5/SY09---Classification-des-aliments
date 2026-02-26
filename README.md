@@ -50,6 +50,6 @@ Projeter les aliments dans un plan factoriel conservant plus de 80% de l'inertie
 
 Dégager 7 classes d'aliments distinctes via la CAH, regroupant par exemple les produits laitiers, les viandes/poissons, ou encore les produits céréaliers.
 
-Auteur : Tareq Derdaki, Ruoyang Wang, Tidiane Bengriche
 
+Auteurs : Tareq Derdaki, Ruoyang Wang, Tidiane Bengriche
 Contexte : Université de Technologie de Compiègne (UTC) - UV SY09
